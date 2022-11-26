@@ -1,0 +1,18 @@
+{
+  "name": "to-do-list-v1",
+  "version": "1.0.0",
+  "description": "this is version 1 of todo list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neeraj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.7.2"
+  }
+}
